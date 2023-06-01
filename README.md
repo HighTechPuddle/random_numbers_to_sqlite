@@ -4,3 +4,5 @@ Using the random python module we generate some random numbers and then save the
 I just wanted to see how random it actually is and I can say it is pretty random, with the visualization to 2D and 3D, it always covered the whole thing.
 
 Oh yeah at the start of a script there are always modules, that the script needs to run properly, remember to install them before using the script!
+
+One more thing! If you are running the scripts in the windows terminal (I am not sure about others like on linux and mac) always end the script by pressing ctrl+c, NEVER end it by closing the command terminal, the script wont finish and you wont be able to read the contents!
